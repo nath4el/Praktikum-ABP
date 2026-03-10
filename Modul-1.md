@@ -50,27 +50,27 @@ Tahap awal yang dilakukan adalah membuat sebuah repositori baru pada platform Gi
 
 ### Langkah 2: Panduan Perintah Git
 
-![Langkah 2](assets/2.png)
+![Langkah 2](assets/2.jpg)
 Setelah repositori berhasil dibuat, GitHub akan menampilkan panduan berisi beberapa perintah Git yang perlu dijalankan. Perintah-perintah tersebut digunakan untuk menghubungkan proyek yang ada di komputer lokal dengan repositori yang telah dibuat di GitHub.
 
 ### Langkah 3: Membuat Folder Proyek dan File
 
-![Langkah 3](assets/3.png)
-Pada tahap ini, kita membuat sebuah folder proyek di komputer lokal, misalnya dengan nama Pertemuan 1. Di dalam folder tersebut kemudian ditambahkan minimal satu file sebagai contoh, seperti file main.txt, yang nantinya akan diunggah ke repositori.
+![Langkah 3](assets/3.jpg)
+Pada tahap ini, kita membuat sebuah folder proyek di komputer lokal. Di dalam folder tersebut kemudian ditambahkan nantinya akan diunggah ke repositori.
 ### Langkah 4: Membuka CMD dari Direktori Folder Proyek
 
-![Langkah 4](assets/4.png)
+![Langkah 4](assets/4.jpg)
 Selanjutnya, buka Command Prompt (CMD) atau Terminal dan pastikan direktori yang aktif berada pada folder proyek yang telah dibuat sebelumnya. Hal ini penting agar seluruh perintah Git yang dijalankan akan diterapkan pada folder proyek yang benar.
 
 ### Langkah 5: Menjalankan Perintah Git di Terminal (Push ke GitHub)
 
-![Langkah 5](assets/5.png)
+![Langkah 5](assets/5.jpg)
 Pada langkah ini, jalankan perintah-perintah Git sesuai panduan yang diberikan oleh GitHub. Proses dimulai dengan menginisialisasi repositori lokal menggunakan git init, menambahkan file menggunakan git add, membuat commit menggunakan git commit, menghubungkan repositori lokal dengan repositori GitHub melalui remote, kemudian mengunggah file menggunakan git push.
 
 ### Langkah 6: Repositori Berhasil Diperbarui
 
-![Langkah 6](assets/6.png)
-Apabila proses git push berhasil dijalankan tanpa adanya kesalahan, maka seluruh file yang ada pada folder proyek lokal akan berhasil diunggah ke repositori GitHub. Dengan demikian, repositori tersebut sudah dapat digunakan untuk menyimpan dan mengelola proyek secara online.
+![Langkah 6](assets/6.jpg)
+Cek pada repository di github apakah file yang tadi di push sudah muncul
 
 ## Refrensi
 - [Materi Modul 1](https://drive.google.com/file/d/1sAJR4AconN_aZjvLF-GTY0DM-e84pL63/view?usp=sharing)
